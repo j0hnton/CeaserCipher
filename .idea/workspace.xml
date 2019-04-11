@@ -208,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.EncryptionTest">
+  <component name="RunManager" selected="Gradle.DecryptionTest">
     <configuration name="CeaserCipherTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -271,8 +271,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.EncryptionTest" />
         <item itemvalue="Gradle.DecryptionTest" />
+        <item itemvalue="Gradle.EncryptionTest" />
         <item itemvalue="Gradle.CeaserCipherTest" />
       </list>
     </recent_temporary>

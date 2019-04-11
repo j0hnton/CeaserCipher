@@ -10,4 +10,4 @@ public class DecryptionTest {
         String expectedOutput = "cba";
         assertEquals(expectedOutput, testEncrypt.decryption("abc", 2));
     }
-}
+
