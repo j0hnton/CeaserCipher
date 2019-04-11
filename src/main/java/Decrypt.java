@@ -4,8 +4,8 @@ public class Decrypt {
         String cipher = "";
         for (int i = 0; i < text.length(); i++) {
             int find = alphabet.indexOf(text.charAt(i));
-            int newfind = (value2 - find) % 26;
-            char newValue = alphabet.charAt(newfind);
+            int newFind = (value2 - find) % 26;
+            char newValue = alphabet.charAt(newFind);
             cipher += newValue;
         }
         return  cipher;
