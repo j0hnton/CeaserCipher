@@ -9,9 +9,9 @@ public class App {
         System.out.println("Input secret key(Number)");
         Scanner info2=new Scanner(System.in);
         int value2=info2.nextInt();
-        Encrypt encryption=new Encrypt();
+        Encrypt encrypt=new Encrypt();
         System.out.println(Encrypt.encryption(data, value2));
-        Decrypt decryption=new Decrypt();
+        Decrypt decrypt=new Decrypt();
         System.out.println(Decrypt.decryption(data, value2));
     }
 }

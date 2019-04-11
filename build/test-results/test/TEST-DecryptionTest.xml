@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DecryptionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-11T07:42:56" hostname="moringaschool-Lenovo-V110-15ISK" time="0.006">
+<testsuite name="DecryptionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-11T08:59:03" hostname="moringaschool-Lenovo-V110-15ISK" time="0.002">
   <properties/>
-  <testcase name="runCeaserCipher_isEntryString_String" classname="DecryptionTest" time="0.006"/>
+  <testcase name="runCeaserCipher_isEntryString_String" classname="DecryptionTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
