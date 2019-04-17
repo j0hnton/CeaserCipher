@@ -28,4 +28,10 @@ public class EncryptionTest {
         String expectedOutput = "ddd";
         assertEquals(expectedOutput, testEncrypt.encryption("bbb", 2));
     }
+    @Test
+    public void runCeaserCipher_isEntryString5_String() {
+        Encrypt testEncrypt = new Encrypt();
+        String expectedOutput = "ded";
+        assertEquals(expectedOutput, testEncrypt.encryption("bcb", 2));
+    }
 }
