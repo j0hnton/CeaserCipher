@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 
 public class EncryptionTest {
-    @Tes
+    @Test
     public void runCeaserCipher_isEntryString_String() {
         Encrypt testEncrypt = new Encrypt();
         String expectedOutput = "cde";
